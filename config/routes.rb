@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
-  resources :articles
+   resources :articles
   # This gives us all sorts of paths to update, delete, create, show, etc.
   
   root 'pages#index'
