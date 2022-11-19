@@ -1,9 +1,7 @@
 class PagesController < ApplicationController
-    def index
-       
+    def index   
     end
 
-    def about
-        <%= link_to 'About', about_path %>
+    def about    
     end
    end
