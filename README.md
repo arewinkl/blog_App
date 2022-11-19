@@ -25,3 +25,5 @@ Things you may want to cover:
 
 //Start at step 9 when you begin working on this blog App again.
 //Review all steps as practice one the App is at point where it works.
+
+//next Time that you work you need to figure out why the articles controller index isnt working. may need to be defined.
