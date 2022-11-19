@@ -24,3 +24,4 @@ Things you may want to cover:
 - ...
 
 //Start at step 9 when you begin working on this blog App again.
+//Review all steps as practice one the App is at point where it works.
